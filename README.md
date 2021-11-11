@@ -14,11 +14,11 @@ In this exemple we want to create a level with a hill.
 The CSV file created by the online-level-creator should look like this :
 
 ```
-0, 0, 0, 0, 0, 0
-0, 0, 1, 1, 0, 0
-0, 1, 1, 1, 1, 0
-1, 1, 1, 1, 1, 0
-1, 1, 1, 1, 1, 1
+0,0,0,0,0,0
+0,0,1,1,0,0
+0,1,1,1,1,0
+1,1,1,1,1,0
+1,1,1,1,1,1
 ```
 where `0` is the value of an 'air block' (`░░`), and `1` is the value of a 'ground block' (`▓▓`).
 
